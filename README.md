@@ -1,5 +1,5 @@
 # USCR-parsed-speeches
-In this repository, I describe some parsing errors that I came across while working with Gentzkow et al.'s dataset of parsed speeches and phrase counts from the United States Congressional Record [1].
+On this page, I describe some parsing errors that I came across while working with Gentzkow et al.'s dataset of parsed speeches and phrase counts from the United States Congressional Record [1].
 
 ## Disclaimer
 Parsing errors are remarkably rare overall in the files I have worked with (Daily Editions of the 110th through 114th Congress).
