@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## Speech 1100029404
+#### Parsing errors in speech 1100029404, held by Mr. Lugar in the Senate on March 27, 2007:
 
-You can use the [editor on GitHub](https://github.com/Grim-bot/USCR-parsed-speeches/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Mr. President. along with Senator<span style="color:red;font-weight:700">.</span> <span style="color:cyan">(unexplained)</span> BOND and Senator COLEMAN. I will offer an amendment that addresses an issue about which there has been much news- reporting and hearings in both House and Senate subcommittees. namely. the situation facing Iraqi and Afghani interpreters and translators who are bravely working on the front lines with our soldiers and diplomats. Such work is vital to our efforts in these two conflicts. yet it often makes them and their families targets for insurgents. This past week. Mr. George Packer wrote a lengthy piece in <span style="color:red;font-weight:700">|</span> <span style="color:cyan">(page break)</span> the New Yorker on this that I <span style="color:red;font-weight:700">.</span>commend <span style="color:cyan">(unexplained)</span> to my colleagues. My interest in this issue. like many of my colleagues. began last summer when I received emails from a first lieutenant in the Indiana National Guard who had recently returned from a tour in Iraq and from a sergeant in the Army who was at the time serving in a combat support hospital. also in Iraq. Aaron Inkenbrandt wrote: During my year in Iraq. I served as a military Transition team member. As such. I lived exclusively with Iraqi forces and acted as a mentor and advisor to them. My team and I did much to build and train these forces under very difficult circumstances. However. we could not have achieved success without our Iraqi interpreters. I believe that our Nation must reciprocate the loyalty proved by these men by offering to them sanctuary in the United States. Iraqi interpreters are an outstanding group of people. These men not only act as our communicators but also our cultural advisors and our friends. Our interpreters share with us the dangers of combat and the rigors of military life. While interpreters are generally well paid. the .risks associated in assisting Coalition forces are extraordinary. Both at work and at home. interpreters fear for their lives. This fear is often so great that they cannot tell even their closest relatives what they do for a living. The insurgency in Iraq has made clear that they will murder any Iraqi caught assisting Coalition Forces. Interpreters are especially prized by insurgents who often pay high bounties for their killings or capture. Iraqis not associated with the insurgency are also hostile toward interpreters. Many Iraqis believe. though wrongly. that interpreters are snitches or traitors. Such hostility makes life very difficult for Iraqi interpreters." <span style="color:cyan">(This quotation mark is in the record, though for no apparent reason.)</span> The withdrawal of Coalition Forces will likely increase rather than decrease the danger posted to interpreters. Without our protection. former interpreters will be left defenseless before their enemies and subject to persecution by their friends. In my opinion. [it] would be immoral and contrary to the precepts of our Constitution to abandon these brave patriots in light of the vast sacrifices that they have made in the cause of freedom. Therefore. I implore you to advocate preferable<span style="color:red;font-weight:700">.</span> <span style="color:cyan">(unexplained)</span> immigration status to all Iraqi interpreters whos<span style="color:red;font-weight:700">6</span> <span style="color:cyan">(unexplained)</span> loyalty we reasonably ascertain. The emails. and a cable that our then Ambassador to Baghdad. Zalmay Khalilzad. released regarding the <span style="color:red;font-weight:700">lifethreatening</span> <span style="color:cyan">(hyphen on line break)</span> conditions our Foreign Service Nationalswere facing prompted me to write to the Secretary of State last July about the issue. I encouraged her to develop a policy to address these various situations and suggest legislative language. The United States has exp<span style="color:red;font-weight:700">L</span>rience <span style="color:cyan">(unexplained)</span> and tradition in this respect from past wars that provide precedent and guidance. The amendment I am offering today with Senator BOND and Senator COLEMAN is not a conventional amendment for an emergency supplemental. but because it has a direct impact on the missions in Iraq and Afghanistan. we are hopeful this can be included in the package. By virtue of a provision crafted by former Congressman John Hostettler of Indiana. the 2006 Defense authorization bill established a program to allow 50 Iraqis and Afghans who have worked for the U.S. military as translators for at least 12 months to come to the United States on a special visa. The program has been underway now for just over a year and has been met with <span style="color:red;font-weight:700">successand</span> <span style="color:cyan">(unexplained)</span> approval by all of the agencies who work with it. Since instatement. 445 applications have been received. 377 have been approved. 10 denied and 58 are pending. Under the current cap of 50 per year. it will take until 2016 to admit those currently in the <span style="color:red;font-weight:700">queuedand</span> <span style="color:cyan">("queued—and": The incorrect 'd' is in the record, and the missing space is caused by an em dash)</span> their <span style="color:red;font-weight:700">familiesfor</span> <span style="color:cyan">(em dash)</span> entry to the United States. In order to help reduce this <span style="color:red;font-weight:700">waittime</span> <span style="color:cyan">(hyphen on line break)</span>. my colleagues and I have crafted an amendment that expands the program to 300 admissions per year and also makes some other technical changes. We change the language to include interpreters as well as <span style="color:red;font-weight:700">translatorsas</span> <span style="color:cyan">(em dash)</span> that is the proper term for those who translate conversation while translators work on documents. We also authorize the U.S. Ambassadors in Iraq and Afghanistan to nominate <span style="color:red;font-weight:700">nonDepartment of Defense</span> <span style="color:cyan">(hyphen on line break)</span> personnel under this program. and we exempt those admitted under this program. and their families from the numerical cap of immigrants who enter in this same. <span style="color:red;font-weight:700">socalled</span> <span style="color:cyan">(hyphen on line break)</span> 4th Preference category. Finally. we wish to sunset the program after 3 years.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Grim-bot/USCR-parsed-speeches/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The errors are highlighted and commented above by comparison with the corresponding part of the [Senate section of the March 27, 2007, Daily Edition of the Congressional Record](https://www.congress.gov/110/crec/2007/03/27/CREC-2007-03-27-senate.pdf) (pages 40-41)
