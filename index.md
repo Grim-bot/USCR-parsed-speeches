@@ -2,6 +2,14 @@
 
 [1] Gentzkow, Matthew, Jesse M. Shapiro, and Matt Taddy. Congressional Record for the 43rd-114th Congresses: Parsed Speeches and Phrase Counts. Palo Alto, CA: Stanford Libraries [distributor], 2018-01-16. https://data.stanford.edu/congress_text
 
+
+## Speech 1140098128
+#### Parsing errors in speech 1140098128, held by Mr. Walden in the House of Representatives on June 8, 2016:
+
+The errors are highlighted in red and commented in cyan, based on comparison with the corresponding part of the [House section of the June 8, 2016, Daily Edition of the Congressional Record](https://www.congress.gov/114/crec/2016/06/08/CREC-2016-06-08-house.pdf) (page 41).
+
+> Mr. Speaker. I appreciate the opportunity to support this legislation today and to commend the committees for their work on pipeline safety and pipeline safety improvement. I also have to take this opportunity. because the committee has done very good work on the FAST Act. to talk about rail safety. This rail accident occurred over the weekend just 7 miles from my home in the national scenic area of the Columbia River Gorge. I was there not long after it happened. I met with the incident commanders. I met with the fire chief. I met with city officials and county officials. Let me just say that. while you are protecting <span style="color:red;font-weight:700">pipelinesand</span> <span style="color:cyan">(em dash)</span> that is really <span style="color:red;font-weight:700">importantwe</span> <span style="color:cyan">(em dash)</span> need to continue to make progress on rail safety and to make sure that the new cars that were ordered by this Congress get put into service. especially in these critical waterway areas. as soon as possible. We need to make sure that track improvements are <span style="color:red;font-weight:700">requiredthat</span> <span style="color:cyan">(em dash)</span> new fasteners are used to deal with issues where. in this case. perhaps. it is a track separation issue. We need to make sure that our first responders get all of the training and that the Department of Transportation finishes its work on its rule for spill response and for safety. This is a critically important issue for the people I represent on both the Oregon and Washington sides of the Columbia River because these trains are going through. and we are having these kinds of situations. We need to make sure we have the most <span style="color:red;font-weight:700">uptodate</span> <span style="color:cyan">("up-to-date": hyphens)</span> safety. the most <span style="color:red;font-weight:700">uptodate</span> <span style="color:cyan">("up-to-date": hyphens)</span> training. and the safest cars and tracks possible. We are going to stay on this until that happens.
+
 ## Speech 1100029404
 #### Parsing errors in speech 1100029404, held by Mr. Lugar in the Senate on March 27, 2007:
 
